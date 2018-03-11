@@ -87,14 +87,17 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
+# Ruby environment rbenv
+eval "$(rbenv init -)"
+
 # Digital Ocean (now closed)
 alias digitalocean="ssh root@159.203.248.238"
 DIGITAL_OCEAN='159.203.248.238'
 
 alias emacs="/usr/local/bin/emacs-25.3"
-alias Code="~/Desktop/Code"
-alias CS35="~/Desktop/Code/CS35"
 alias pychem='ipython -i ~/Desktop/Code/chem-calculator/chem_calculator.py'
 
-# Ruby environment rbenv
-eval "$(rbenv init -)"
+alias Code="~/Desktop/Code/"
+alias CS35="~/Desktop/Code/CS35/"
+alias Algos="~/Desktop/Code/github-algos/"
+alias Photomanipulations="~/Desktop/hobby/photomanipulations/"
