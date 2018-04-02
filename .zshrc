@@ -101,3 +101,6 @@ alias Code="~/Desktop/Code/"
 alias CS35="~/Desktop/Code/CS35/"
 alias Algos="~/Desktop/Code/github-algos/"
 alias Photomanipulations="~/Desktop/hobby/photomanipulations/"
+
+# install prolog
+PATH=$PATH:/Applications/SWI-Prolog.app/Contents/MacOS
